@@ -9,10 +9,10 @@ requirments:
 - random
 - pygame
 
+---
 
-screenshots
+https://user-images.githubusercontent.com/23712972/125130498-13cd3600-e0cf-11eb-8661-cfd1e84e7f96.mov
 
-https://user-images.githubusercontent.com/23712972/125130380-df597a00-e0ce-11eb-8f83-0e1c6668f411.mov
 
 
 
