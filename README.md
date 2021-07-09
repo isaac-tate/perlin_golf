@@ -12,6 +12,8 @@ requirments:
 
 screenshots
 
-<img width="510" alt="Screen Shot 2021-07-09 at 4 00 10 PM" src="https://user-images.githubusercontent.com/23712972/125130312-c6e95f80-e0ce-11eb-8f35-0b6738ea17ed.png">
+https://user-images.githubusercontent.com/23712972/125130380-df597a00-e0ce-11eb-8f83-0e1c6668f411.mov
+
+
 
 
